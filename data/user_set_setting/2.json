@@ -1,0 +1,12 @@
+{
+"id": 1,
+"mode": 1,
+"comment": null, 
+"steps": [{"step": 1,
+			"comment": false},
+			{"step": 2,
+			"comment": false},
+			{"step": 3,
+			"comment": false}
+		]
+}

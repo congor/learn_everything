@@ -1,0 +1,76 @@
+<!-- <!DOCTYPE html> -->
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="css/style2.css" rel="stylesheet">
+</head>
+<body>
+	<div id="menu">
+		<div class="container left">
+			<div role="button" id="sandwich" class="button">|#|</div>
+			<div role="button" id="mode" class="button">Режим работы</div>
+			<div role="button" id="set" class="button">Имя набора элементов</div>
+			<div role="button" id="step" class="button"></div>
+			<div role="button" id="comment" class="button"></div>
+		</div>
+		<div class="container right">
+			<div role="button" id="create_elements" class="button"></div>
+		</div>
+	</div>
+	<div id="document">
+		<div id="gallery">
+			<div class="header">
+				<div class="container left buttons">
+					<div id="open-fullsreen" class="button">F</div>
+					<div id="show-slider-descrition" class="button">D</div>
+					<div id="open-text-string" class="button">T</div>
+				</div>
+				<div id="gallery_title" class="container center text_container" data-source="media_title"></div>
+				<div class="container right buttons">
+					<div class="button close-button">X</div>
+				</div>
+			</div>
+			<div class="slider">
+				<div class="slider-button left">
+					<!-- <div class="gallery-overlay-control gallery-overlay-control-left"></div> -->
+				</div>
+				<div class="slider-viewport"></div>
+				<div class="slider-button right">
+					<!-- <div class="gallery-overlay-control gallery-overlay-control-right"></div> -->
+				</div>
+			</div>			
+			<div class="film">
+				<div class="film-button left"></div>
+				<div class="film-row"></div>
+				<div class="film-button right"></div>
+			</div>
+			<div class="text_container" data-source="media_description"></div>
+		</div>
+		<div id="parts">
+			<div id="part_header">
+				<div id="part_title" class="container left"></div>
+				<div class="container right buttons">
+					<div class="button close-button">X</div>
+				</div>
+			</div>
+			<div id="about" class="part text_container" data-source="about"></div>
+			<div id="content_title" class="part list_container"></div>
+			<div id="media_list" class="part list_container"></div>
+			<div id="media_album" class="part"></div>
+			<div id="footnote" class="part text_container" data-source="footnote"></div>
+			<div id="external_link_list" class="part list_container"></div>
+			<div id="knowlege_elements" class="part"></div>
+		</div>		
+		<div id="main_text" class="text_container" data-source="main"></div>
+	</div>
+	<textarea style="display: none" id="log"></textarea>
+</body>
+</html>
+<script>
+var serverURL = location.pathname.split('/');
+serverURL[(serverURL.length-1)] = 'data';
+var dataPath = serverURL.join('/');
+console.log(dataPath);
+</script>
+<script src="js/build_page.js"></script>
+<script src="js/work_modes.js"></script>

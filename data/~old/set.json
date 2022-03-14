@@ -1,0 +1,53 @@
+{"type": "hot_keys",
+"added_at": "2019-01-01 2:0",
+"added_by": "User_1",
+"elements": [
+	{"id": 1,
+	"step": 1,
+	"added_at": "2019-01-01 0:0",
+	"added_by": "User_1",
+	"quote": [1, 0, [0, 5]],
+	"parts": [
+		{"id": 1,
+		"step": 1,
+		"title": "Combination",
+		"type": "text",
+		"content": "Ctrl+D",
+		"language": "int",
+		"added_at": "2019-01-01 0:0",
+		"added_by": "User_1"},
+		{"id": 2,
+		"step": 2,
+		"title": "Command",
+		"type": "text",
+		"content": "Выделить слово, в котором курсор",
+		"language": "ru",
+		"added_at": "2019-01-01 0:1",
+		"added_by": "User_1"}
+		]
+	},
+	{"id": 2,
+	"step": 2,
+	"added_at": "2019-01-01 1:0",
+	"added_by": "User_1",
+	"quote": [1, 1, [0, 5]],
+	"parts": [
+		{"id": 3,
+		"step": 1,
+		"title": "Combination",
+		"type": "text",
+		"content": "Alt+F3",
+		"language": "int",
+		"added_at": "2019-01-01 1:0",
+		"added_by": "User_1"},
+		{"id": 4,
+		"step": 2,
+		"title": "Command",
+		"type": "text",
+		"content": "Найти и выделить всё",
+		"language": "ru",
+		"added_at": "2019-01-01 1:1",
+		"added_by": "User_1"}
+		]
+	}
+]}

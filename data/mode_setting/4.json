@@ -1,0 +1,23 @@
+{
+"id": 3,
+"title": "Перевод",
+"merge": false,
+"steps": [
+			{"step": 1,
+			"title": "Переводимое слово",
+			"type": "quote",
+			"data_types": ["text"]
+			},
+			{"step": 2,
+			"title": "Переведенное слово",
+			"type": "translation",
+			"data_types": ["text"]
+			},
+			{"step": 3,
+			"title": "Комментарий",
+			"type": "comment",
+			"data_types": ["text"]
+			}
+		],
+"sets": []
+}

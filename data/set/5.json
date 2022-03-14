@@ -1,0 +1,34 @@
+{"id": 1,
+"mode": 1,
+"title": "Первый мой конспект",
+"theme_id": 2,
+"theme": "Мои конспекты",
+"elements": [
+				{"number": 1,
+				"date": "2019-01-01",
+				"parts": [
+							{"number": 1,
+							"type": "media",
+							"data": null,
+							"quote": [{"string": 0, "position": "before", "number": 1}]
+							},
+							{"number": 2,
+							"type": "text",
+							"data": ["JavaScript unofficial logo"],
+							"title": "title",
+							"quote": [{"start": {"string": 0, "word": 0},
+										"end": {"string": 0, "word": 1}}
+									]
+							},
+							{"number": 3,
+							"type": "text",
+							"data": ["JAVASCRIPT LOGO"],							
+							"quote": [{"start": {"string": 0, "word": 0},
+										"end": {"string": 0, "word": 1}}
+									]
+							}
+							
+						]
+				}				
+			]
+}

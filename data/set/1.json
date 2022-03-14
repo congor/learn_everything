@@ -1,0 +1,142 @@
+{"id": 1,
+"mode": 1,
+"title": "1st approach",
+"theme_id": 2,
+"theme": "My translations",
+"elements": [
+				{"number": 1,
+				"date": "2019-01-01",
+				"completed": false,
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": null,
+							"quote": null,
+							"comment": false
+							},
+							{
+							"number": 2,
+							"type": "text",
+							"data": "ромашка",
+							"quote": null,
+							"comment": false
+							}
+						]
+				},
+				{"number": 2,
+				"date": "2019-01-02",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": "soother",
+							"quote": [{"source": "main",
+										"number": 1,
+										"start": {"string": 2, "word": 25},
+										"end": {"string": 2, "word": 25}}
+									],
+							"comment": false
+							},
+							{
+							"number": 2,
+							"type": "text",
+							"data": "пустышка, соска",
+							"quote": null,
+							"comment": false
+							}
+						]
+				},
+				{"number": 3,
+				"date": "2019-05-07",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": "to be mastered something",
+							"quote": [{"source": "main",
+										"number": 1,
+										"start": {"string": 17, "word": 31},
+										"end": {"string": 17, "word": 31}},
+										{"source": "main",
+										"number": 2,
+										"start": {"string": 17, "word": 33},
+										"end": {"string": 17, "word": 35}}
+									]
+							},
+							{
+							"number": 2,
+							"type": "text",
+							"data": "овладеть чём-то, разобраться в чём-то",
+							"quote": null,
+							"comment": false
+							}
+						]
+				},
+				{"number": 4,
+				"date": "2019-05-07",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": "chick-flick",
+							"quote": [{"source": "main",
+										"number": 1,
+										"start": {"string": 35, "word": 2},
+										"end": {"string": 35, "word": 2}}
+									]
+							},
+							{
+							"number": 2,
+							"type": "text",
+							"data": "женский фильм",
+							"quote": null,
+							"comment": false
+							}
+						]
+				},
+				{"number": 5,
+				"date": "2019-05-07",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": "frolic",
+							"quote": [{"source": "main",
+										"number": 1,
+										"start": {"string": 39, "word": 13},
+										"end": {"string": 39, "word": 13}}
+									]
+							},
+							{
+							"number": 2,
+							"type": "text",
+							"data": "резвиться, проказничать",
+							"quote": null,
+							"comment": false
+							}
+						]
+				},
+				{"number": 6,
+				"date": "2019-05-07",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": "hang on",
+							"quote": [{"source": "main",
+										"number": 1,
+										"start": {"string": 45, "word": 2},
+										"end": {"string": 45, "word": 2}}
+									]
+							},
+							{
+							"number": 2,
+							"type": "text",
+							"data": "подождать, приостановиться",
+							"quote": null,
+							"comment": false
+							}
+						]
+				}
+			]
+}

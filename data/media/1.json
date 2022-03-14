@@ -1,0 +1,213 @@
+[
+	{"source": "main",
+	"strings":[
+					{"number": 1,
+					"positions": [
+									{"position": "before",
+									"media": []
+									},
+									{"position": "after",
+									"media": [{"total_number": 0,
+												"number": 0,
+												"id": 1,
+												"type": "image",
+												"preview": "data/pics/1.jpg",
+												"location": "data/pics/1.jpg"
+												}
+											]
+									}
+								]
+					},
+					{"number": 2,
+					"positions": [
+									{"position": "after",
+									"media": [{"total_number": 1,
+												"number": 0,
+												"id": 2,
+												"type": "image",
+												"preview": "data/pics/2.jpg",
+												"location": "data/pics/2.jpg"
+												}
+											]
+									},
+									{"position": "before",
+									"media": []}
+								]
+					},
+					{"number": 4,
+					"positions": [
+									{"position": "after",
+									"media": [{"total_number": 2,
+												"number": 0,
+												"id": 3,
+												"type": "image",
+												"preview": "data/pics/3.jpg",
+												"location": "data/pics/3.jpg"
+												}
+											]
+									},
+									{"position": "before",
+									"media": []}
+								]
+					},
+					{"number": 16,
+					"positions": [
+									{"position": "after",
+									"media": [{"total_number": 3,
+												"number": 0,
+												"id": 4,
+												"type": "image",
+												"preview": "data/pics/4.jpg",
+												"location": "data/pics/4.jpg"
+												},
+												{"total_number": 4,
+												"number": 1,
+												"id": 5,
+												"type": "image",
+												"preview": "data/pics/5.jpg",
+												"location": "data/pics/5.jpg"
+												}
+											]
+									},
+									{"position": "before",
+									"media": []}
+								]
+					},
+					{"number": 27,
+					"positions": [
+									{"position": "after",
+									"media": [{"total_number": 5,
+												"number": 0,
+												"id": 6,
+												"type": "image",
+												"preview": "data/pics/6.jpg",
+												"location": "data/pics/6.jpg"
+												},
+												{"total_number": 6,
+												"number": 1,
+												"id": 7,
+												"type": "image",
+												"preview": "data/pics/7.jpg",
+												"location": "data/pics/7.jpg"
+												}
+											]
+									},
+									{"position": "before",
+									"media": []}
+								]
+					},
+					{"number": 36,
+					"positions": [
+									{"position": "before",
+									"media": [{"total_number": 7,
+												"number": 0,
+												"id": 7,
+												"type": "image",
+												"preview": "data/pics/8.jpg",
+												"location": "data/pics/8.jpg"
+												}
+											]
+									},
+									{"position": "after",
+									"media": []}
+								]
+					},
+					{"number": 43,
+					"positions": [
+									{"position": "after",
+									"media": [{"total_number": 8,
+												"number": 0,
+												"id": 8,
+												"type": "image",
+												"preview": "data/pics/9.jpg",
+												"location": "data/pics/9.jpg"
+												}
+											]
+									},
+									{"position": "before",
+									"media": []}
+								]
+					},
+					{"number": 47,
+					"positions": [
+									{"position": "after",
+									"media": [{"total_number": 9,
+												"number": 0,
+												"id": 9,
+												"type": "image",
+												"preview": "data/pics/10.jpg",
+												"location": "data/pics/10.jpg"
+												}
+											]
+									},
+									{"position": "before",
+									"media": []}
+								]
+					}
+				]
+	},
+	{"source": "footnote",
+	"strings":[		{"number": 0,
+					"positions": [
+									{"position": "before",
+									"media": [{"total_number": 10,
+												"number": 0,
+												"id": 10,
+												"type": "image",
+												"preview": "data/pics/330px-Hugh_Grant_2014_crop.jpg",
+												"location": "data/pics/330px-Hugh_Grant_2014_crop.jpg"
+												}
+											]
+									},
+									{"position": "after",
+									"media": []}
+								]
+					},
+					{"number": 1,
+					"positions": [
+									{"position": "before",
+									"media": [{"total_number": 11,
+												"number": 0,
+												"id": 11,
+												"type": "image",
+												"preview": "data/pics/12.jpg",
+												"location": "data/pics/12.jpg"
+												},
+												{"total_number": 12,
+												"number": 1,
+												"id": 12,
+												"type": "image",
+												"preview": "data/pics/13.jpg",
+												"location": "data/pics/13.jpg"
+												}
+											]
+									},
+									{"position": "after",
+									"media": []}
+								]
+					}
+				]
+	},
+	{"source": "about",
+	"strings":[
+					{"number": 0,
+					"positions": [
+									{"position": "before",
+									"media": [{"total_number": 13,
+												"number": 0,
+												"id": 13,
+												"type": "image",
+												"preview": "data/pics/14.jpg",
+												"location": "data/pics/14.jpg",
+												"text_positions": [{"source": "about",
+																	"string": 0,
+																	"word": 0}]
+												}]
+									},
+									{"position": "after",
+									"media": []}
+								]
+					}
+				]
+	}
+]

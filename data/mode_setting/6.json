@@ -1,0 +1,15 @@
+{
+"id": 6,
+"title": "Изображения",
+"merge": null,
+"steps": [
+			{"step": 1,
+			"title": "Изображение",
+			"type": "media",
+			"data_types": ["image"],
+			"comment": true
+			}
+		],
+"comment": "partSetting",
+"sets": [6]
+}

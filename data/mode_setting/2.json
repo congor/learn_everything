@@ -1,0 +1,27 @@
+{
+"id": 2,
+"title": "Translation with picture",
+"merge": true,
+"steps": [
+			{"step": 1,
+			"title": "Original word",
+			"type": "quote",
+			"data_types": true,
+			"comment": false
+			},
+			{"step": 2,
+			"title": "Translation",
+			"type": "note",
+			"data_types": true,
+			"comment": false
+			},
+			{"step": 3,
+			"title": "Picture",
+			"type": "media",
+			"data_types": ["image"],
+			"comment": false
+			}
+		],
+"comment": "partSetting",
+"sets": [4]
+}

@@ -1,0 +1,21 @@
+{
+"id": 1,
+"title": "Translation EN-RU",
+"merge": true,
+"steps": [
+			{"step": 1,
+			"title": "Original word",
+			"type": "quote",
+			"data_types": true,
+			"comment": false
+			},
+			{"step": 2,
+			"title": "Translation",
+			"type": "note",
+			"data_types": true,
+			"comment": false
+			}
+		],
+"comment": "partSetting",
+"sets": [1]
+}

@@ -1,0 +1,36 @@
+{
+"id": 6,
+"mode": 6,
+"title": "Pictures",
+"theme_id": 3,
+"theme": "My pictures",
+"elements": [
+				{"number": 1,
+				"date": "2019-01-01",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "media",
+							"comment": "Эта картика!",
+							"data": null,
+							"quote": [{"total_number": 1,
+										"type": "image"}
+									]
+							}
+						]
+				},
+				{"number": 2,
+				"date": "2019-01-01",
+				"completed": true,
+				"parts": [
+							{"number": 1,
+							"type": "media",
+							"data": null,
+							"quote": [{"total_number": 11,
+										"type": "image"}
+									]
+							}
+						]
+				}
+			]
+}

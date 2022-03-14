@@ -1,0 +1,30 @@
+{"id": 3,
+"mode": 1,
+"title": "На рассмотрение группы",
+"theme_id": 3,
+"theme": "Мои Конспект для всех",
+"elements": [
+				{"number": 1,
+				"date": "2019-01-01",
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": ["1.1"],
+							"quote": [{"start": {"string": 1, "word": 0},
+										"end": {"string": 1, "word": 0}}]
+							}
+						]
+				},
+				{"number": 2,
+				"date": "2019-01-02",
+				"parts": [
+							{"number": 1,
+							"type": "text",
+							"data": ["alert(\"JavaScript\")"],
+							"quote": [{"start": {"string": 1, "word": 1},
+										"end": {"string": 1, "word": 1}}]
+							}
+						]
+				}
+			]
+}

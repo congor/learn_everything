@@ -1,0 +1,26 @@
+[
+	{"total_number": 0,
+	"link": "https://en.wikipedia.org/wiki/Friends",
+	"positions": [
+				{"source": "about",
+				"string": 0,
+				"word": 0}
+				]
+	},
+	{"total_number": 1,
+	"link": "https://en.wikipedia.org/wiki/Hugh_Grant",
+	"positions": [
+				{"source": "footnote",
+				"string": 0,
+				"word": 3}
+				]
+	},
+	{"total_number": 2,
+	"link": "https://en.wikipedia.org/wiki/Joe's_Pizza",
+	"positions": [
+				{"source": "footnote",
+				"string": 0,
+				"word": 3}
+				]
+	}
+]

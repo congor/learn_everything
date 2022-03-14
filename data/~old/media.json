@@ -1,0 +1,11 @@
+[
+	{"string": 0,
+	"position": true,
+	"location": "data/pics/Unofficial_JavaScript_logo.png"
+	},
+	{
+	"string": 2,
+	"position": false,
+	"location": "data/pics/Unofficial_JavaScript_logo.png"
+	}
+]

@@ -1,0 +1,16 @@
+{
+"id": 104,
+"title": "Даты-события",
+"merge": false,
+"steps": [
+			{"step": 1,
+			"type": "quote",
+			"data_types": ["text"]
+			},
+			{"step": 2,
+			"type": "quote",
+			"data_types": ["text"]
+			}
+		],
+"sets": []
+}

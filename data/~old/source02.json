@@ -1,0 +1,18 @@
+{"content":
+	[{"position": 0,
+	"tag": "h1",
+	"content": "JAVASCRIPT NOTEPAD"},
+	{"position": 1,
+	"tag": "h2",
+	"content": "Part 1"},
+	{"position": 2,
+	"tag": "h3",
+	"content": "1.1 Eсть ли разница между window и document?"},
+	{"position": 3,
+	"tag": "p",
+	"content": "Ответ: Да. У JavaScript есть глобальный объект и всё происходит через него. window – тот самый объект, который хранит глобальные переменные, функции, местоположение, историю. Всё находится внутри него, setTimeout, XMLHttpRequest, console и localStorage также являются частью window. Аналогично дело обстоит и с document, который является свойством объекта window и представляет DOM. Все ноды – это часть document, следовательно, вы можете использовать getElementById или addEventListener для document. Но обратите внимание, что этих методов нет в объекте window."},
+	{"position": 4,
+	"tag": "code",
+	"content": "123"}
+	]
+}

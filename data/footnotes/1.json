@@ -1,0 +1,13 @@
+[
+	{"total_number": 0,
+	"positions": [{"source": "main",
+				"string": 40,
+				"word": 5}
+				]
+	},
+	{"total_number": 1,
+	"positions": [{"source": "main",
+				"string": 47,
+				"word": 2}]
+	}
+]

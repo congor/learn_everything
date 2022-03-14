@@ -1,0 +1,71 @@
+body {
+    /*width: 450px;*/
+    /*height: 335px;*/
+    /*font-family: "Arial", sans-serif;*/
+    /*font-size: 10px;*/
+    /*color: white;*/
+}
+
+.layout-positioner {
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*width: 1000px;*/    
+}
+
+.layout-positioner::after {
+    display: table;
+    content: "";
+    clear: both;
+}
+
+.source_container {
+    /*width: 100%;*/
+    /*min-height: 100px;*/
+    /*padding: 10px 0; /*Вертикальные отступы 10*/
+}
+
+.source_container .layout-column {	
+    float: left;
+    /*margin-right: 10px;*/
+    /*background-color: #3498DB;*/
+    /*padding: 5px 5px;*/
+}
+
+.source_container .layout-column .right {
+    float: right;
+}
+
+/*.source_container .layout-column:last-child {
+    /*margin-right: 0;*/
+/*}*/
+
+.source_container .content {
+    /*min-height: 100px;*/
+    /*width: 60px;*/
+}
+
+.source_container .layout-positioner>.button {
+    width: 10%;
+    background-color: blue;    
+    height: 1em;
+}
+
+.source_container .layout-positioner>.string {	
+    width: 80%;
+}
+
+.empty {
+	background-color: transparent;
+}
+
+.temporary_stressed {
+	background-color: yellow;	
+}
+
+.stressed {
+	background-color: red;
+}
+
+.focused {
+	background-color: pink;
+}

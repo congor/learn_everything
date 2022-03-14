@@ -1,0 +1,18 @@
+{
+"id": 2,
+"title": "Две цитаты",
+"merge": false,
+"steps": [
+			{"step": 1,
+			"title": "Цитата 1",
+			"type": "quote",
+			"data_types": ["text"]
+			},
+			{"step": 2,
+			"title": "Цитата 2",
+			"type": "quote",
+			"data_types": ["text"]
+			}
+		],
+"sets": []
+}

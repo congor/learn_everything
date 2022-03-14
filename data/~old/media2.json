@@ -1,0 +1,40 @@
+[
+	{"number": 0,
+	"positions": [
+					{"position": "before",
+					"media": [{"number": 1,
+								"type": "image",
+								"location": "data/pics/Unofficial_JavaScript_logo.png",
+								"title": "Неофициальный логотип"},
+								{"number": 2,
+								"type": "image",
+								"location": "data/pics/Erik Bean - Capital for the Collective - The Labour Miracle.png"},
+								{"number": 3,
+								"type": "image",
+								"location": "data/pics/Evolution.jpg"},
+								{"number": 4,
+								"type": "image",
+								"location": "data/pics/Unofficial_JavaScript_logo.png"}
+							]
+					},
+					{"position": "after",
+					"media": []}
+				]
+	},
+	{"number": 4,
+	"positions": [
+					{"position": "after",
+					"media": [{"number": 1,
+								"type": "image",
+								"location": "data/pics/Unofficial_JavaScript_logo.png"},
+								{"number": 2,
+								"type": "image",
+								"location": "data/pics/Unofficial_JavaScript_logo.png"}
+							]
+					},
+					{"position": "before",
+					"media": []}
+				]
+	}
+
+]
