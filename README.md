@@ -10,6 +10,7 @@ Notes can consist of different parts. For example, an original text and its tran
 
 The structures of document data are supposed to be a task for server architecture: the data base organization and  server handlers.
 
+Nodes are supposed to save on the Dictionary Manager sever. https://github.com/congor/dictionary_manager
 
 **Techincal requirements:**
 
