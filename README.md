@@ -11,6 +11,6 @@ Notes can consist of different parts. For example, an original text and its tran
 The structures of document data are supposed to be a task for server architecture: the data base organization and  server handlers.
 
 
-**Techincal requerments:**
+**Techincal requirements:**
 
 Use as an example the "Web Server for Chrome" extension for the Chrome browser to launch the application on a local PC. An user should choose the folder with this project with index.html file. The user can open the application via a browser using the local IP-address and an given port, for an instance http://127.0.0.1:8887.
